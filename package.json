@@ -19,5 +19,11 @@
   "homepage": "https://github.com/YarelyCastillo22/Proyecto-Vanessa-y-Daniel#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0"
   }
 }
